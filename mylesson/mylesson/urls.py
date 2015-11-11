@@ -14,3 +14,4 @@ urlpatterns = patterns('',
     url(r'^xxx/', views.xxx),
     
 )
+好烦做实验，做好几遍
