@@ -9,3 +9,4 @@ class BookAdmin(admin.ModelAdmin):
     
 admin.site.register(Book)
 admin.site.register(Author)
+µÚÈý±é×öºÃ·³°¡°¡°¡°¡°¡°¡
